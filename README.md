@@ -30,3 +30,12 @@ pip3 install requests
 **run the file**
 
 python3 main.py
+
+
+**flow of the application**
+
+ 1. Enter a Product like mobile, penrive, mobile charger, laptop charger, routers etc(tested on these products)
+ 2. click search.
+ 3. other widgets will get visible
+ 4. for other details default values are already set, change if needed and click submit.
+ 5. let the program run at the end file name data.csv will be created in the project folder containing fetched products.  
