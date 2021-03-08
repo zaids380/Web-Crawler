@@ -1,5 +1,4 @@
-sudo apt-get install python3-tk
-pip3 install selenium
-pip3 install beautifulsoup4
-pip3 install pandas
-pip3 install requests
+selenium
+beautifulsoup4
+pandas
+requests
