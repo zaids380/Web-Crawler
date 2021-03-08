@@ -25,6 +25,8 @@ pip3 install pandas
 
 pip3 install requests
 
+**install the chrome driver and provide appropriate path in main.py on line no 332**
+
 **run the file**
 
 python3 main.py
